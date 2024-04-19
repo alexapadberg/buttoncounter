@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">buttoncounter</string>
+    <string name="count_btn_name">Count</string>
+    <string name="clear_btn_name">Clear</string>
+</resources>
